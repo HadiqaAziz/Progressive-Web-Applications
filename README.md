@@ -1,9 +1,7 @@
 # Progressive-Web-Application
-This repository contains all files of module_19 challenge
-# User Story
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
+
+As a developer I want to create notes or code snippets with or without an internet connection
+SO that I can reliably retrieve them for later use
 # Acceptance Criteria
 GIVEN a text editor web application
 WHEN I open my application in my editor
