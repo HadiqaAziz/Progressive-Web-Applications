@@ -14,8 +14,8 @@ This repository contains a Progressive Web Application (PWA) text editor designe
 ### 1. Clone the Repository
 Start by cloning the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/progressive-web-application.git
-cd progressive-web-application
+git clone https://github.com/HadiqaAziz/Progressive-Web-Applications.git
+cd Progressive-Web-Applications
 ```
 
 ### 2. Install Dependencies
